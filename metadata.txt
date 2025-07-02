@@ -1,0 +1,21 @@
+[general]
+name=PixelCraft
+qgisMinimumVersion=3.10
+description=A toolkit for creating, editing, and analyzing raster data using a vector-driven workflow.
+version=1.0.0
+author=Your Name
+email=your.email@example.com
+
+[menu]
+group=GetBack2Basics
+
+[tooltips]
+apply_codes=Apply the edits defined in the Batch Edit dialog to the raster.
+batch_edit=Open a dialog to define edits for the selected polygon(s).
+restore=Restore raster values from the original source raster.
+trace_pixel=Create a new polygon feature by tracing connected pixels from a single click.
+add_selections=Add polygon(s) selected in another layer to the current editing layer.
+difference_calc=Calculate and display the differences between the current and source rasters.
+settings=Configure PixelCraft layers, fields, and behavior.
+inspector=Displays the raster value under the mouse cursor.
+watch=Toggle automatic reloading of layers when their source files change.
