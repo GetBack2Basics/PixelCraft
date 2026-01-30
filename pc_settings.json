@@ -1,1 +1,10 @@
-{}
+{
+    "user_account_name": "",
+    "backup_count": 5,
+    "raster_layer_name": "ESA_WorldCover_10m_2021_v200_S36E150_Map",
+    "source_raster_layer_name": "ESA_WorldCover_10m_2021_v200_S36E150_Map - Duplicate",
+    "vector_layer_name": "AOI",
+    "orig_vals_field": "orig_vals",
+    "new_val_field": "new_val",
+    "auto_watch_layers": true
+}
